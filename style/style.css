@@ -228,7 +228,8 @@ textarea{
     width: 653px;
     height: 150px;
     border:0px;
-    box-shadow: 13px  21px 4px 0px rgb(0, 0, 0, 0.75) ;
+    box-shadow: 13px  21px 4px 0px rgb(0, 0, 0, 0.75);
+    resize: none;
 }
 
 .form-box {
